@@ -18,7 +18,7 @@ You can find more about this on the earlier messages.
 
 Don't know how to run the Client? You need a file named Flash Player Projector. This file can run the Client.  
 If you are in Linux, MacOs or Windows. You need a different file for each Operating System.  
-These files can be found on our website. which can be found here: [https://everybody-edits-rewritten.github.io/downloads.html.](https://everybody-edits-rewritten.github.io/downloads.html)
+These files can be found on our website. which can be found here: [https://everybody-edits-rewritten.github.io/download.html.](https://everybody-edits-rewritten.github.io/download.html)
 When you are finished with the downloading of each Flash Player Projector. You just click on File > New and then Browse > And select Everybody.Edits.Rewritten.swf.
 
 ### Still don't understand? 
